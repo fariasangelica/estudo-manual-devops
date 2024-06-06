@@ -1,1 +1,14 @@
-# estudo-manual-devops
+# Livro Manual de DevOps: Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas
+Repositório dedicado a leitura do Livro [_Manual de DevOps_](https://www.amazon.com.br/Manual-DevOps-confiabilidade-organiza%C3%A7%C3%B5es-tecnol%C3%B3gicas/dp/8550802697) por Gene Kim (Autor), Jez Humble (Autor), John Willis (Autor), Patrick Debois.
+
+## Apresentação
+Alguns dois mitos relacionados ao DevOps:
+> - Mito - DevOps é apenas "Infraestrutura com código" ou Automação: Embora muitos padrões de DevOps mostrados neste livro exijam automção, DevOps exige também normas culturais e uma arquitetura que permita atingir os objetivos compartilhados por todo o fluxo de valor da TI. Isso vai bem além da automação. Conforme Christopher Little, executivo de tecnologia e um dos primeiros cronistas de DevOps, escreveu: "DevOps não se trata de automação, assim como astronomia não se trata de telescópios".
+>   
+> - Mito - DevOps só serve para startups: Embora as práticas de DevOps tenham sido exploradas por empresas "unicórnios" da internet, em momento algum de sua história cada uma dessas organizações correu o risco de sair do mercado por causa dos problemas altamente perigosos e propensos a falha catastrófica, incapacidade de mudar de escala, altos níveis de desconfiança entre Desenvolvimento e Operações, e assim por diante.
+>
+> - Mito - DevOps Substitui Ágil: Os princípios e práticas de DevOps são compatíveis com a técnica Ágil, e muitos observa, que DevOps é uma contribuição lógica da jornada Ágil que começou em 2001. Ágil frquentemente serve como facilitador eficiente para DevOps, graças ao seu enfoque em pequenas equipes entregando continuamente código de alta qualidade para os clientes. Muitas práticas de DevOps emergem se continuarmos a gerenciar nosso trabalho além da meta de obter "código potencialemnte enviável" ao final de cada interação, ampliando-o para ter nosso código sempre em um estado implementável, com os desenvolvedores inserindo no trunk diariamente, e também demonstramos nossos recursos em ambientes do tipo produção.
+>
+## Imagine um Mundo onde Dev e Ops se tornem DevOps
+> - Para a maioria de nós, esse não é o mundo onde vivemos. Mais frequentemente, o sistema em que trabalhamos é falho, com resultados extremamente ruins, que não atigem nosso verdadeiro potencial. Em nosso, mundo, Desenvolvimento e Operações de TI são adversários; testes e atividades de Infosec acontecem somente no final de um projeto, tarde demais para corrigir quaisquer problemas encontrados; e quase toda a tividade crítica exige muito esforço manual e muitas transferências, deixando-nos sempre esperando. Isso não apenas contribui para tempos de execução extremamente longos, mas também é problemática e caótica, resultando em impactos negativos para nossos clientes e nosso negócio. Como resultado, não atingimos nossos objetivos, e a organização inteira fica insatisfeita com o desempenho da TI, resultando em reduções de orçamento e em funcionários frustrados e insatisfeitos que se sentem impotentes para mudar o processo e seus resultados. Solução? DeVops.
+> - 
